@@ -1,2 +1,2 @@
 # pierreteramo.github.io
-portfolio Teramo Pierre, étudiant BTS SIO 
+Portfolio Teramo Pierre, étudiant BTS SIO 
